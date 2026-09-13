@@ -1,4 +1,4 @@
-##Hi, I’m Silas Kipchirchir
+Hi, I’m Silas Kipchirchir
 
 
 * I’m an IT Professional and Technology Enthusiast passionate about Software Development, Networking, ISP Solutions, Cybersecurity, Cloud Technologies, and IT Infrastructure.
