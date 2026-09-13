@@ -1,19 +1,19 @@
 Hi, I’m Silas Kipchirchir
 
 
-💻 I’m an IT Professional and Technology Enthusiast passionate about Software Development, Networking, ISP Solutions, Cybersecurity, Cloud Technologies, and IT Infrastructure.
+* I’m an IT Professional and Technology Enthusiast passionate about Software Development, Networking, ISP Solutions, Cybersecurity, Cloud Technologies, and IT Infrastructure.
 
-🎓 I studied BSc Information Technology at Kabarak University.
+* I studied BSc Information Technology at Kabarak University.
 
-🛠️ I have experience in IT Support, Network Administration, ISP Infrastructure, CCTV Installation, Web Development, Hardware & Software Troubleshooting, and Technical Support.
+* I have experience in IT Support, Network Administration, ISP Infrastructure, CCTV Installation, Web Development, Hardware & Software Troubleshooting, and Technical Support.
 
-🚀 I’m building and exploring technology solutions for ISPs, businesses, and organizations, with a focus on reliable infrastructure, automation, and digital transformation.
+* I’m building and exploring technology solutions for ISPs, businesses, and organizations, with a focus on reliable infrastructure, automation, and digital transformation.
 
-🌱 I’m continuously learning Cybersecurity, Linux, Cloud Computing, Data Analysis, Networking, DevOps, and Software Engineering.
+* I’m continuously learning Cybersecurity, Linux, Cloud Computing, Data Analysis, Networking, DevOps, and Software Engineering.
 
-🤝 I’m looking to collaborate on Web Development, Networking, ISP, Cybersecurity, Open-Source, and Technology Projects.
+* I’m looking to collaborate on Web Development, Networking, ISP, Cybersecurity, Open-Source, and Technology Projects.
 
-📫 How to reach me: ronosilas2@gmail.com
+* How to reach me: ronosilas2@gmail.com
 
 ---
 
